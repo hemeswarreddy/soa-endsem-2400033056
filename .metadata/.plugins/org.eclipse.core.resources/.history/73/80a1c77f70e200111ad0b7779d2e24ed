@@ -1,0 +1,5 @@
+package com.klef.soa.controller;
+
+public class StorageUnitController {
+
+}

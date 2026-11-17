@@ -1,0 +1,5 @@
+package com.klef.soa.entity;
+
+public class StorageUnit {
+
+}
